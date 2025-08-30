@@ -1,5 +1,5 @@
 # data/post_generator.py
-from __name__ import annotations
+from __future__ import annotations
 
 from llm_helper import get_llm
 from few_shot import FewShotPosts
