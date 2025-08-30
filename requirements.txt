@@ -1,0 +1,25 @@
+# ----------------
+# Core app
+# ----------------
+streamlit          # Web app framework
+python-dotenv      # Load environment variables from .env
+
+# ----------------
+# LangChain + Groq
+# ----------------
+langchain          # LangChain framework
+langchain-core     # Core LangChain utilities
+langchain-groq     # Groq integration for LangChain
+
+# ----------------
+# Data handling
+# ----------------
+pandas             # Data manipulation and preprocessing
+numpy              # Numerical operations
+
+# ----------------
+# JSON utilities
+# ----------------
+orjson             # Fast JSON parser/serializer
+
+
