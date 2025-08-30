@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Venvs
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets
+.env
+*.env
+data/.env
+
+# Generated data
+data/processed_posts.json
+
+# IDE
+.vscode/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
